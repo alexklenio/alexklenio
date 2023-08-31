@@ -13,10 +13,10 @@
 
 ## Progresso 🚀
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
-<li> 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas na UniNassau</li>
+<li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
 <li> 🌱 Atualmente estou aprendendo HTML, CSS, JS, JAVA
-<li> 📚 Formação Acelerada de Programadores da Softex, no curso de BackEnd com JavaScript</li>
-<li> 📚 Formação Acelerada Em Soluções De TechDesign da Cesar School</li>
+<li> 📚 Cursando o FAP Softex, BackEnd com JavaScript</li>
+<li> 📚 Cursando o FAST Cesar School, ENgenharia de Plataforma</li>
 <li> 🎯 O aprendizado é contínuo e sempre haverá um próximo níve</li>
 <br><br><br>
 
