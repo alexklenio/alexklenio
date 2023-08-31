@@ -1,5 +1,5 @@
 ## Olá eu sou o Alex 🧑🏻‍💻!
-
+<br>
 
 - 😊 Estudante de desenvolvimento BackEnd
 - 🔥 Sempre pronto para enfrentar novos desafios
@@ -13,13 +13,14 @@
 
 ## Progresso 🚀
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300"/>
+<br><br>
 <li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
 <li> 🌱 Atualmente estou aprendendo HTML, CSS, JS, JAVA
 <li> 📚 Cursando o FAP Softex, BackEnd com JavaScript</li>
 <li> 📚 Cursando o FAST Cesar School, ENgenharia de Plataforma</li>
 <li> 🎯 O aprendizado é contínuo e sempre haverá um próximo níve</li>
 <br><br><br>
-
+<br>
 <div align="center">
   <a href="https://github.com/alexklenio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexklenio&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
