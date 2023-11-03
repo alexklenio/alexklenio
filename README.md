@@ -35,9 +35,10 @@
     <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" height="30" width="40" alt="NodeJS" src="https://raw.githubusercontent.com/alexklenio/alexklenio/e2c127478c7d7ca662272c21b6bddf4ead2c22f6/GIT.svg">
-  <img align="center" height="30" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
-    </div>
+	<img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="NodeJS" src="https://raw.githubusercontent.com/alexklenio/alexklenio/e2c127478c7d7ca662272c21b6bddf4ead2c22f6/GIT.svg">
+    <img align="center" height="30" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
+  </div>
 <br>
 
  ## Redes sociais 👇
