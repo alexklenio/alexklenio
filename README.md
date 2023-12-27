@@ -5,7 +5,7 @@
 - 🔥 Sempre pronto para enfrentar novos desafios
 - 💬 Apaixonado por tecnologia.
 - 📫 Como entrar em contato comigo: alexlopes.see@gmail.com
-- 📚 "É difícil saber o que é possível até que você veja alguém que possa ultrapassar os limites que você conhece." -Chad Fowler
+- 📚 "O trabalho duro vence o dom natural, consistência é o segredo!" 
 
 <br><br>
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/alexklenio/alexklenio/main/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -15,9 +15,8 @@
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/main/computer-illustration.png" width="300"/>
 <br><br>
 <li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
-<li> 🌱 Atualmente estou aprendendo HTML, CSS, JS, JAVA
+<li> 🌱 Atualmente estou aprendendo  JS, TS, C#
 <li> 📚 Cursando a FAP Softex, BackEnd com JavaScript</li>
-<li> 📚 Cursando a FAST Cesar School, Engenharia de Plataforma</li>
 <li> 🎯 O aprendizado é contínuo e sempre haverá um próximo nível</li>
 <br><br><br>
 <br>
