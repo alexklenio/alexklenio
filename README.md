@@ -46,8 +46,8 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## - Bootcamps e Certificações:
-[<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://web.dio.me/track/formacao-scrum-master)
-[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
+[<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
+[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60"></a>](https://www.dio.me/certificate/5136A500/)
 
  ## Redes sociais 👇
 <div align="left"> 
