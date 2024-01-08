@@ -7,12 +7,8 @@
 - 📫 Como entrar em contato comigo: alexlopes.see@gmail.com
 - 📚 "O trabalho duro vence o dom natural, consistência é o segredo!" 
 
-<br><br>
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://raw.githubusercontent.com/alexklenio/alexklenio/main/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<br><br>
-
 ## - Progresso 🚀
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/main/computer-illustration.png" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/main/computer-illustration.png" width="280"/>
 <br><br>
 <li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
 <li> 🌱 Atualmente estou aprendendo  JS, TS, C#
