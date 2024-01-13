@@ -8,7 +8,7 @@
 - 📚 "O trabalho duro vence o dom natural, consistência é o segredo!" 
 
 ## - Progresso 🚀
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/main/computer-illustration.png" width="280"/>
+<img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="280"/>
 <br><br>
 <li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
 <li> 🌱 Atualmente estou aprendendo  JS, TS, C#
