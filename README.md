@@ -33,8 +33,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## - Bootcamps e Certificações:
+## - Formações:
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
+
+
+## - Bootcamps:
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60"></a>](https://www.dio.me/certificate/5136A500/)
 
  ## Redes sociais 👇
