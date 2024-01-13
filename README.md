@@ -3,7 +3,7 @@
 <img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="280"/>
 <br><br>
 <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 📚 Cursando a FAP Softex, BackEnd com JavaScript</li>
+<li> 📚 Cursando a FAP Softex, BackEnd com JavaScript / TypeScript</li>
 <li> 🌱 Atualmente estou aprendendo  JS, TS, C#</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br><br><br>
