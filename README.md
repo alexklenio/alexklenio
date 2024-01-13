@@ -10,7 +10,7 @@
 ## - Progresso 🚀
 <img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="280"/>
 <br><br>
-<li> 🎓 Cursando Tecnologo em ADS na UniNassau</li>
+<li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
 <li> 🌱 Atualmente estou aprendendo  JS, TS, C#
 <li> 📚 Cursando a FAP Softex, BackEnd com JavaScript</li>
 <li> 🎯 O aprendizado é contínuo e sempre haverá um próximo nível</li>
