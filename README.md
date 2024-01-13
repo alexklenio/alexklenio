@@ -1,22 +1,15 @@
 ## Olá eu sou o Alex 🧑🏻‍💻!
-<br>
 
-- 😊 Estudante de desenvolvimento BackEnd
-- 🔥 Sempre pronto para enfrentar novos desafios
-- 💬 Apaixonado por tecnologia.
-- 📫 Como entrar em contato comigo: alexlopes.see@gmail.com
-- 📚 "O trabalho duro vence o dom natural, consistência é o segredo!" 
-
-## - Progresso 🚀
 <img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="280"/>
 <br><br>
 <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 🌱 Atualmente estou aprendendo  JS, TS, C#
 <li> 📚 Cursando a FAP Softex, BackEnd com JavaScript</li>
-<li> 🎯 O aprendizado é contínuo e sempre haverá um próximo nível</li>
+<li> 🌱 Atualmente estou aprendendo  JS, TS, C#</li>
+<li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br><br><br>
 <br>
 <div align="center">
+  <br>
   <a href="https://github.com/alexklenio">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexklenio&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexklenio&layout=compact&langs_count=7&theme=vue-dark"/>
