@@ -1,6 +1,6 @@
 ## Olá eu sou o Alex 🧑🏻‍💻!
 
-<img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="280"/>
+<img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="260"/>
 <br><br>
 <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
 <li> 📚 Cursando a FAP Softex, BackEnd com JavaScript / TypeScript</li>
