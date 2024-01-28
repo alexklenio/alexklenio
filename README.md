@@ -21,8 +21,8 @@
     <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
-    <img align="center" height="30" width="30" alt="C#" src="https://camo.githubusercontent.com/cd13b0b32f2955dfc5139c431eec68e84e71b17d5f9dcb8b25f44bcc3d1026bd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62642f4c6f676f5f435f73686172702e7376672f3132303070782d4c6f676f5f435f73686172702e7376672e706e67">
+    <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
+    <img align="center" height="40" width="40" alt="C#" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/c-logo-icon-18.png">
   </div>
 <br>
 
