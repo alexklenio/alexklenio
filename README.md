@@ -1,19 +1,14 @@
 ## Olá eu sou o Alex 🧑🏻‍💻!
-
+<br>
 <img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="260"/>
-<br><br>
+<br><br><br>
 <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 📚 Cursando a FAP Softex, BackEnd com JavaScript / TypeScript</li>
+<li> 📚 Concluído o FAP Softex, BackEnd com JavaScript / TypeScript</li>
 <li> 🌱 Atualmente estou aprendendo  JS, TS, C#</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
-<br><br><br>
 <br>
-<div align="center">
-  <br>
-  <a href="https://github.com/alexklenio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alexklenio&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexklenio&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+
+
     
 ## - Tecnologias
 
@@ -48,3 +43,11 @@
   <a href = "mailto:alexlopes.see@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/lopes.1986" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
+
+## ⭐Git Status
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexklenio&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexklenio&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexklenio&theme=blueberry) |
+| :-: | :-: | :-: |
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexklenio&theme=blueberry&utcOffset=8) |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexklenio&theme=blueberry)| 
+| :-: | :-: |
