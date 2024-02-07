@@ -30,6 +30,8 @@
 
 ## - Bootcamps:
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/5136A500/)
+[<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/JRHB2QCH/)
+
 
 ## - Outras Tecnologias:
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
