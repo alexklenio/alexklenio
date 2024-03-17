@@ -4,7 +4,7 @@
 <img align="right" src="https://media.slid.es/uploads/886439/images/10170103/2.png" width="250"/>
 <br>
 <li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 📚 FAP Softex 2023 Concluido comlouvor!!!, BackEnd com JavaScript / TypeScript</li>
+<li> 📚 FAP Softex 2023 Concluido com louvor!!!, BackEnd com JavaScript / TypeScript</li>
 <li> 🌱 Atualmente estou aprendendo  C# e modelagem de dados!</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br>
