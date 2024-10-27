@@ -27,6 +27,7 @@
 
 
 ## - Formações:
+[<img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" height="60"/></a>](https://www.dio.me/certificate/0OWIDSCX/)
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
 [<img src="https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/badge.png" height="60" target="_blank"/></a>](https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/certificado.png)
 
