@@ -3,10 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://eduardo-kropniczki.up.railway.app/dektup.svg" width="250"/>
 <br>
-<li> 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniNassau</li>
-<li> 📚 FAP Softex 2023 Concluido com louvor!!!, BackEnd com JavaScript / TypeScript</li>
-<li> 📚 FAP Softex 2024 em curso, FrontEnd com React / TypeScript - Rumo ao FullStack</li>
-<li> 🌱 Aprendendo  C# e modelagem de dados!</li>
+<li>Voltando para o lado negro da força!</li>
+<li> 📚 BFD - Backend com Python 2025 - Em curso/
+<li> 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniNassau - 2025</li>
+<li> 📚 FAP Softex 2024 - FrontEnd com React / TypeScript</li>
+<li> 📚 FAP Softex 2023 - BackEnd com JavaScript / TypeScript</li>
+<li> 🌱 Aprendendo  Python e Sistema SAP!</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br>
 <br>
@@ -15,11 +17,12 @@
 ## - Tecnologias
 
 <div align="left>
-    <img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
     <img align="center" height="40" width="40" alt="C#" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/c-logo-icon-18.png">
+    <img align="center" height="50" width="50" alt="Python" src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/python.png">
   </div>
 <br>
 
