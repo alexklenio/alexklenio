@@ -1,7 +1,7 @@
 
 ## Olá eu sou o Alex 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
-<img align="right" src="https://eduardo-kropniczki.up.railway.app/dektup.svg" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="250"/>
 <br>
 <li>Voltando para o lado negro da força!</li>
 <li> 📚 BFD - Backend com Python 2025 - Em curso/
@@ -22,7 +22,7 @@
     <img align="center" height="30" width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="40" width="40" alt="GitHub" src="https://raw.githubusercontent.com/alexklenio/alexklenio/61a8caa505016216a5698dfefe42a20ea5285efd/NODE.svg">
     <img align="center" height="40" width="40" alt="C#" src="https://raw.githubusercontent.com/alexklenio/DIO-dotnet-developer/main/imagens/c-logo-icon-18.png">
-    <img align="center" height="50" width="50" alt="Python" src="https://github.com/Carlos-CGS/Projeto-AssistenteBusca/blob/main/img/python.png">
+    <img align="center" height="50" width="50" alt="Python" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/python.png">
   </div>
 <br>
 
