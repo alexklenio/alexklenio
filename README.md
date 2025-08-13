@@ -4,7 +4,7 @@
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="250"/>
 <br>
 <li>Voltando para o lado negro da força!</li>
-<li> 📚 BFD - Backend com Python 2025 - Em curso/
+<li> 📚 BFD - Backend com Python 2025 - Em curso
 <li> 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniNassau - 2025</li>
 <li> 📚 FAP Softex 2024 - FrontEnd com React / TypeScript</li>
 <li> 📚 FAP Softex 2023 - BackEnd com JavaScript / TypeScript</li>
