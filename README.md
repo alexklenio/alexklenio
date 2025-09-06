@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="250"/>
 <br>
-<li>Voltando para o lado negro da força! Backend is Life!!!!</li>
+<li>Voltando para o lado negro da força!</li>
 <li> 📚 Bolsa Futuro Digital - Backend com Python 2025 - Em curso
 <li> 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniNassau - 2025</li>
 <li> 📚 FAP Softex 2024 - FrontEnd com React / TypeScript</li>
@@ -30,7 +30,7 @@
 
 
 ## - Formações:
-[<img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" height="60"/></a>](https://www.dio.me/certificate/CICYAVFP/share?ref=0YLVILX1Q)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/python_fundamentals.webp" height="60"/></a>](https://www.dio.me/certificate/CICYAVFP/share?ref=0YLVILX1Q)
 [<img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" height="60"/></a>](https://www.dio.me/certificate/0OWIDSCX/)
 [<img src="https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/PUDJE15M/share)
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
