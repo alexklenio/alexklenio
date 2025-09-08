@@ -38,6 +38,7 @@
 
 
 ## - Bootcamps:
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/suzano_python_developer.webp" height="60" target="_blank"></a>](https://www.dio.me/certificate/CSBQWJAT/)
 [<img src="https://hermes.dio.me/courses/badge/b4706d38-bfc5-468d-b4fe-20e30b9e6dad.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/W1RVXWUA/)
 [<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/PDTIZ2TO/)
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/5136A500/)
