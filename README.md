@@ -29,30 +29,24 @@
 
 
 
-## - Formações:
+## - Formações DIO:
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/python_fundamentals.webp" height="60"/></a>](https://www.dio.me/certificate/CICYAVFP/share?ref=0YLVILX1Q)
-[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_01.png" height="60"/></a>](##)
-[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_02.png" height="60"/></a>](##)
 [<img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" height="60"/></a>](https://www.dio.me/certificate/0OWIDSCX/)
 [<img src="https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/PUDJE15M/share)
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
 [<img src="https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/badge.png" height="60" target="_blank"/></a>](https://raw.githubusercontent.com/alexklenio/softexFapBackEnd2023/main/Certificado/certificado.png)
 
-
-## - Bootcamps:
+## - Bootcamps DIO:
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/suzano_python_developer.webp" height="60" target="_blank"></a>](https://www.dio.me/certificate/CSBQWJAT/)
 [<img src="https://hermes.dio.me/courses/badge/b4706d38-bfc5-468d-b4fe-20e30b9e6dad.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/W1RVXWUA/)
 [<img src="https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/PDTIZ2TO/)
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/5136A500/)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/JRHB2QCH/)
 
+## - Cursos Complementares:
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_01.png" height="60"/></a>](##)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_02.png" height="60"/></a>](##)
 
-
-## - Outras Tecnologias:
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
  ## Redes sociais:
 <div align="left"> 
