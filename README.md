@@ -3,11 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="250"/>
 <br>
-<li>Voltando para o lado negro da força!</li>
+<li>Voltando para o lado negro da força, BackEnd for the life!</li>
 <li> 📚 Bolsa Futuro Digital - Backend com Python 2025 - Em curso
 <li> 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniNassau - 2025</li>
-<li> 📚 FAP Softex 2024 - FrontEnd com React / TypeScript</li>
-<li> 📚 FAP Softex 2023 - BackEnd com JavaScript / TypeScript</li>
 <li> 🌱 Aprendendo  Python e Sistema SAP!</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br>
@@ -43,7 +41,7 @@
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/5136A500/)
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/JRHB2QCH/)
 
-## - Cursos Complementares:
+## - Cursos:
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_01.png" height="60"/></a>](##)
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_02.png" height="60"/></a>](##)
 
