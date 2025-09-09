@@ -31,6 +31,8 @@
 
 ## - Formações:
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/python_fundamentals.webp" height="60"/></a>](https://www.dio.me/certificate/CICYAVFP/share?ref=0YLVILX1Q)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_01.png" height="60"/></a>](##)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_02.png" height="60"/></a>](##)
 [<img src="https://assets.dio.me/MCPFG2_8Jtaa5UHe4OdLz_YI7gXvp8UzqXLmELjfCBI/f:webp/h:120/q:80/L3RyYWNrcy9lMDRhNTIxNi0yMmQzLTQ2N2QtYmFmNC0xMzU4ODIwYWVlOWUucG5n" height="60"/></a>](https://www.dio.me/certificate/0OWIDSCX/)
 [<img src="https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/PUDJE15M/share)
 [<img src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" height="60"/></a>](https://www.dio.me/certificate/C4512F09/)
