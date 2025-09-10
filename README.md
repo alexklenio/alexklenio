@@ -1,7 +1,7 @@
 
 ## Olá eu sou o Alex 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="230"/>
 <br>
 <li>Voltando para o lado negro da força, BackEnd for the life!</li>
 <li> 📚 Bolsa Futuro Digital - Backend com Python 2025 - Em curso
