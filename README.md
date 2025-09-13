@@ -11,7 +11,15 @@
 <br>
 <br>
 
-    
+
+ ## Contatos:
+<div align="left"> 
+  <a href="https://br.linkedin.com/in/alex-lopes-02294b22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:alexlopes.see@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/umtaldealexlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+<br>
+
 ## - Tecnologias
 
 <div align="left>
@@ -47,15 +55,9 @@
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_03.png" height="70"/></a>](##)
 
 
- ## Redes sociais:
-<div align="left"> 
-  <a href="https://br.linkedin.com/in/alex-lopes-02294b22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:alexlopes.see@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/umtaldealexlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
 
 ## ⭐Git Status
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexklenio&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexklenio&theme=blueberry) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexklenio&theme=blueberry) |
 | :-: | :-: | :-: |
 
