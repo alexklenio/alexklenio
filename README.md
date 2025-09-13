@@ -12,7 +12,7 @@
 <br>
 
 
- ## Contatos:
+ ## - Contatos:
 <div align="left"> 
   <a href="https://br.linkedin.com/in/alex-lopes-02294b22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:alexlopes.see@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
