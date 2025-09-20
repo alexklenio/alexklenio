@@ -6,7 +6,7 @@
 <li>Voltando para o lado negro da força, BackEnd for the life!</li>
 <li> 📚 Cursando Formação Backend Python - Faculdade Rocketseat de Tecnologia
 <li> 📚 Cursando Backend com Python - Bolsa Futuro Digital 2025
-<li> 🎓 Formado em Análise e Desenvolvimento de Sistemas na UniNassau - 2025</li>
+<li> 🎓 Formado em Análise e Desenvolvimento de Sistemas- UniNassau 2025</li>
 <li> 🌱 Aprendendo Sistema SAP!</li>
 <li> 📚 "O trabalho duro vence o dom natural, consistência é o segredo!"</li>
 <br>
