@@ -54,7 +54,7 @@
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_001.png" height="70" alt="Python Mundo 01 - Curso em Vídeo"/></a>](##)
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_002.png" height="70"/></a>](##)
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_03.png" height="70"/></a>](##)
-[<img src="https://imgs.search.brave.com/jFE-8HdDy_J8Yb76d6JTIY2ICI5GrrOIrFd-19k5e0k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjMvUHl0/aG9uLUxvZ28tUE5H/LVBob3RvLnBuZw" height="70"/></a>](https://app.rocketseat.com.br/certificates/0cd8054a-266c-4c8b-997f-d4b7bc77e253)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/python.webp" height="70"/></a>](https://app.rocketseat.com.br/certificates/0cd8054a-266c-4c8b-997f-d4b7bc77e253)
 
 
 
