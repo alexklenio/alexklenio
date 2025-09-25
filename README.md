@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="230"/>
 <br>
-<li>Voltando para o lado negro da força, BackEnd for the life!</li>
+<li>Voltando para o lado negro da força, BackEnd for the life!!</li>
 <li> 📚 Cursando Formação Backend Python - Faculdade Rocketseat de Tecnologia
 <li> 📚 Cursando Backend com Python - Bolsa Futuro Digital 2025
 <li> 🌱 Aprendendo Sistema SAP!</li>
