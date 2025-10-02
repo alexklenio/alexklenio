@@ -1,7 +1,7 @@
 
 ## Olá eu sou o Alex 🧑🏻‍💻! 
 ![](https://komarev.com/ghpvc/?username=alexklenio&style=for-the-badge&abbreviated=true&color=yellow)
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/criacao-de-sites-seo.png" width="230"/>
+<img align="right" src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/solucoes-scala-555x571x0x0x555x571x1657394091.png" width="230"/>
 <br>
 <li>Voltando para o lado negro da força, BackEnd for the life.</li>
 <li> 📚 Cursando Formação Backend Python - Faculdade Rocketseat de Tecnologia
