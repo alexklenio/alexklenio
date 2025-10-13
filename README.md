@@ -51,9 +51,9 @@
 [<img src="https://hermes.dio.me/tracks/4d998d5c-36c1-497b-8da0-8db465c820eb.png" height="60" target="_blank"></a>](https://www.dio.me/certificate/JRHB2QCH/)
 
 ## - Cursos:
-[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_001.png" height="70" alt="Python Mundo 01 - Curso em Vídeo"/></a>](##)
-[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_002.png" height="70"/></a>](##)
-[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_03.png" height="70"/></a>](##)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_001.png" height="70" alt="Python Mundo 01 - Curso em Vídeo"/></a>](https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/certificados/python_mundo01.jpg)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_002.png" height="70"/></a>](https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/certificados/python_mundo02.jpg)
+[<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/guanabara_mundo_03.png" height="70"/></a>](https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/certificados/python_mundo03.jpg)
 [<img src="https://raw.githubusercontent.com/alexklenio/alexklenio/refs/heads/main/badges/python.webp" height="70"/></a>](https://app.rocketseat.com.br/certificates/0cd8054a-266c-4c8b-997f-d4b7bc77e253)
 
 
